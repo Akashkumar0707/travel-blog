@@ -4,7 +4,7 @@ Copy
 
 A responsive travel blog application that integrates with the RestCountries API to display country information alongside blog posts. Built with React.js and deployed on GitHub Pages.
 
-!"C:\Users\kumar\Downloads\Screenshot 2025-03-30 145248.png"
+
 
 ## ✨ Features
 
@@ -16,8 +16,6 @@ A responsive travel blog application that integrates with the RestCountries API 
 
 ## 🚀 Live Demo
 
-Check out the deployed version:  
-[Live Demo](https://yourusername.github.io/travel-blog)
 
 ## 🛠️ Installation
 

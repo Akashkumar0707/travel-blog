@@ -86,26 +86,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 📄 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by Your Name
+Made with ❤️ by Akash kumar
 
-Copy
 
-### How to Use This README:
-
-1. Replace placeholder values (`yourusername`, screenshot URL, etc.)
-2. Add your own screenshot (upload to Imgur or your preferred image host)
-3. Customize the features list if needed
-4. Update the license if you prefer a different one
-
-### Key Sections Included:
-- Project title with emoji
-- Features list
-- Live demo link
-- Installation instructions
-- Deployment guide
-- Project structure
-- Technology stack
-- Contribution guidelines
-- License information
-
-This README follows GitHub best practices and includes all the essential information users and contributors might need.
